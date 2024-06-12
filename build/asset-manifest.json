@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.24c760f8.css",
+    "main.js": "/static/js/main.cc833653.js",
+    "static/js/453.7c9d2c0a.chunk.js": "/static/js/453.7c9d2c0a.chunk.js",
+    "static/media/WhatsApp Audio 2024-06-12 at 06.00.36 (online-audio-converter.com).mp3": "/static/media/WhatsApp Audio 2024-06-12 at 06.00.36 (online-audio-converter.com).d490d89699b50c153e33.mp3",
+    "static/media/WhatsApp Image 2024-06-11 at 04.38.36.jpeg": "/static/media/WhatsApp Image 2024-06-11 at 04.38.36.242123e8f1c7d89e7a90.jpeg",
+    "static/media/WhatsApp Image 2024-06-11 at 04.38.37.jpeg": "/static/media/WhatsApp Image 2024-06-11 at 04.38.37.0572f30334b099a0ca3e.jpeg",
+    "static/media/WhatsApp Image 2024-06-11 at 04.38.38.jpeg": "/static/media/WhatsApp Image 2024-06-11 at 04.38.38.717c02caaee0569e29b4.jpeg",
+    "static/media/DALL·E 2024-06-11 15.14.36.webp": "/static/media/DALL·E 2024-06-11 15.14.36.4ee17c003cb87d8b0d4f.webp",
+    "static/media/WhatsApp Image 2024-06-11 at 04.38.39.jpeg": "/static/media/WhatsApp Image 2024-06-11 at 04.38.39.86947e4f074ac049c3c9.jpeg",
+    "static/media/DALL·E 2024-06-12 02.51.42.webp": "/static/media/DALL·E 2024-06-12 02.51.42.268c505cd18f0801422a.webp",
+    "index.html": "/index.html",
+    "main.24c760f8.css.map": "/static/css/main.24c760f8.css.map",
+    "main.cc833653.js.map": "/static/js/main.cc833653.js.map",
+    "453.7c9d2c0a.chunk.js.map": "/static/js/453.7c9d2c0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24c760f8.css",
+    "static/js/main.cc833653.js"
+  ]
+}
